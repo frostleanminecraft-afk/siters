@@ -6,7 +6,7 @@ st.video("https://youtu.be/FxmhHQ0fQvg?si=SnaKajHbDXKBNub9")
 st.markdown(
 """
 ### HISTÓRIA DE COMO ELA SE TORNOU UMA CANTORA:
-# antes, quando criança, seu nome era Ana e ela era moradora de rua e cantava as músicas que fazia em seu tempo livre para ganhar dinheiro, até que certo dia, enquanto cantava, uma garota gravou um vídeo seu que acabou viralizando, isso fez com que chamasse a atenção de executivos da música, que logo ao verem o vídeo, foram atrás dela para chama-la para a indústria da musica. Daí em diante ficou conhecido como Ariana Grande de fez muito sucesso como cantora.
+# antes, quando criança, seu nome era Ana e ela era moradora de rua e cantava as músicas que fazia em seu tempo livre para ganhar dinheiro, até que certo dia, enquanto cantava, uma garota gravou um vídeo seu que acabou viralizando, isso fez com que chamasse a atenção de executivos da música, que logo ao verem o vídeo, foram atrás dela para chama-la para a indústria da musica. Daí em diante ficou conhecido como Ariana Grande e fez muito sucesso como cantora.
 """
 )
 
